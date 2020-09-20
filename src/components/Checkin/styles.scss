@@ -1,0 +1,14 @@
+  .checkin {
+    button{
+      margin: 5px;
+    }
+    button[disabled]{
+      background: lightgrey;
+    }
+    .seat button{
+      width: 44px;
+    }
+    .seat button:hover {
+      background: #6fe680;
+    }
+  }
